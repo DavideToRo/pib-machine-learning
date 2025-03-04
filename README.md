@@ -38,8 +38,12 @@ El dataset fue limpiado, transformado y optimizado para mejorar la calidad de la
 ├── README.md           # Documentación del proyecto
 └── requirements.txt    # Librerías necesarias
 ```
+## Imagenes del analisis
+Matriz de Correlación
+![Captura desde 2025-03-04 12-56-43](https://github.com/user-attachments/assets/7008e7f1-976d-4409-92d2-48eab54dbee7)
 
 ## 💌 Contacto
+
 - **Autor:** David Torres
 - **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/david-torres-robles-913453117/)
 - **GitHub:** [Tu GitHub](https://github.com/DavideToRo)
