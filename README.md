@@ -1,5 +1,5 @@
 # pib-machine-learning
-Predicción del PIB utilizando Machine Learning a partir de indicadores de salud.
+# Teneis el CSV subido para poder trabajar con el codigo, lo podeis importar a colab por si es mas comodo con el entorno.
 
 # Predicción del PIB con Machine Learning
 
