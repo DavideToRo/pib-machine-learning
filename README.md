@@ -41,9 +41,13 @@ El dataset fue limpiado, transformado y optimizado para mejorar la calidad de la
 ## Imagenes del analisis
 Matriz de Correlación
 ![Captura desde 2025-03-04 12-56-43](https://github.com/user-attachments/assets/7008e7f1-976d-4409-92d2-48eab54dbee7)
-Detectando outliers![Captura desde 2025-03-04 12-56-10](https://github.com/user-attachments/assets/4cf70eba-f73f-44cd-a9ea-96d4132e4675)
+
+Detectando outliers
+![Captura desde 2025-03-04 12-56-10](https://github.com/user-attachments/assets/4cf70eba-f73f-44cd-a9ea-96d4132e4675)
+
 Comparacion del PIB real y el PREDIDICHO por nuestro modelo de IA 
 ![Captura desde 2025-03-04 13-00-23](https://github.com/user-attachments/assets/6a7f29ec-3c55-4d10-9f51-493a43f82c8e)
+
 
 
 
