@@ -1,5 +1,5 @@
 # pib-machine-learning
-# Teneis el CSV subido para poder trabajar con el codigo, lo podeis importar a colab por si es mas comodo con el entorno.
+- El archivo CSV está disponible en el repositorio para que podáis trabajar con el código. Si os resulta más cómodo, podéis importarlo a Google Colab y ejecutarlo desde allí.
 
 # Predicción del PIB con Machine Learning
 
